@@ -1,0 +1,60 @@
+INSERT INTO `Players` (`PlayerID`,`Name`,`Age`)
+VALUES
+  (1,"Nero",18),
+  (2,"Octavius",16),
+  (3,"Kuame",31),
+  (4,"Cairo",25),
+  (5,"Grady",31),
+  (6,"Cole",36),
+  (7,"Amal",26),
+  (8,"Connor",24),
+  (9,"Clark",26),
+  (10,"Tad",28);
+INSERT INTO `Players` (`PlayerID`,`Name`,`Age`)
+VALUES
+  (11,"Jakeem",13),
+  (12,"Hunter",29),
+  (13,"Patrick",35),
+  (14,"Jasper",30),
+  (15,"Jonah",24),
+  (16,"Declan",25),
+  (17,"Steven",35),
+  (18,"Drake",30),
+  (19,"Lucian",26),
+  (20,"Brett",12);
+INSERT INTO `Players` (`PlayerID`,`Name`,`Age`)
+VALUES
+  (21,"Cade",30),
+  (22,"Wayne",19),
+  (23,"Barry",33),
+  (24,"Robert",24),
+  (25,"Kamal",21),
+  (26,"Ethan",18),
+  (27,"Clark",35),
+  (28,"Matthew",33),
+  (29,"Magee",26),
+  (30,"Bruno",26);
+INSERT INTO `Players` (`PlayerID`,`Name`,`Age`)
+VALUES
+  (31,"Beck",26),
+  (32,"Curran",13),
+  (33,"Phelan",20),
+  (34,"Marvin",32),
+  (35,"Slade",15),
+  (36,"Jakeem",23),
+  (37,"Laith",17),
+  (38,"Demetrius",16),
+  (39,"Tyrone",33),
+  (40,"Forrest",13);
+INSERT INTO `Players` (`PlayerID`,`Name`,`Age`)
+VALUES
+  (41,"Caleb",30),
+  (42,"Kevin",16),
+  (43,"Derek",13),
+  (44,"Dale",13),
+  (45,"Clayton",15),
+  (46,"Quinlan",18),
+  (47,"Geoffrey",15),
+  (48,"Valentine",33),
+  (49,"Gage",23),
+  (50,"Raymond",30);
