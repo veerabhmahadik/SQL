@@ -34,6 +34,9 @@ To run the Python application:
 1. Ensure you have Python installed on your system.
 2. Install the required libraries: `mysql-connector-python`, `pandas`, and `matplotlib`.
 3. Open the Jupyter Notebook file `Query_Weave_Insights_Database_application_in_python.ipynb` and run the cells to access the database and visualize the data.
+4. Use the following link to open in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/veerabhmahadik/SQL/tree/master/Query%20Weave%20Insights">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Dependencies
 
